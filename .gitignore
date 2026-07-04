@@ -1,0 +1,35 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Carpetas que Android genera solas al compilar
+build/
+.gradle/
+*.apk
+*.aab
+
+# Configuración local de tu máquina (rutas de tu computadora, no sirven en otra)
+local.properties
+
+# Archivos de Android Studio que son solo tuyos
+.idea/
+*.iml
+
+# Archivos de Mac/Windows
+.DS_Store
+Thumbs.db
+
+# Carpetas de compilación nativa (si las llegas a usar)
+.cxx/
